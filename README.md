@@ -477,9 +477,9 @@ A good README should include:
 - [GitHub Blog](https://github.blog/)
 
 ### Learning Platforms
-- [GitHub Learning Lab](https://lab.github.com/)
 - [Pro Git Book](https://git-scm.com/book/en/v2) (Free)
 - [GitHub Guides](https://guides.github.com/)
+- [Interactive Git Tutorials](https://learngitbranching.js.org/)
 
 ### Community
 - [GitHub Community Forum](https://github.community/)
